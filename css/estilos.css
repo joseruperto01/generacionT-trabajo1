@@ -1,0 +1,14 @@
+.eljuego {
+    display: flex;
+    justify-content: center;
+    width: 1350spx;
+    height: 300px;
+ 
+}
+
+.sanguches {
+    background-color: blue;
+    width: 1000px;
+    height: 1000px;
+}
+
